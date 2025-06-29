@@ -1,6 +1,6 @@
 # 철벽레스텔 예약 일자 계산기
 
-![rdc](https://github-production-user-asset-6210df.s3.amazonaws.com/67003627/460287948-1aac79da-465e-44c5-a015-874e04a5dff3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250629%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250629T090008Z&X-Amz-Expires=300&X-Amz-Signature=9024dddffb62be4bf7aed948bd282977396a8094985f582bc7e8feec9545950d&X-Amz-SignedHeaders=host)
+![rdc](https://github.com/user-attachments/assets/1aac79da-465e-44c5-a015-874e04a5dff3)
 
 ## 설명
 
